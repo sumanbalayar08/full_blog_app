@@ -51,7 +51,7 @@ const Single = () => {
     const options = { month: "short", day: "2-digit", year: "numeric" };
     return date.toLocaleDateString("en-US", options);
   };
-
+  
   const handleCommentSubmit = async () => {
     try {
       // Send a request to add a new comment
@@ -129,7 +129,6 @@ const Single = () => {
           <p>Please log in to leave a comment.</p>
         </div>
       )}
-        
       </div>
     </div>
   );
