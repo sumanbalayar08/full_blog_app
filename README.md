@@ -9,6 +9,12 @@ This is a full-stack blog application built with React for the frontend and Djan
 - **Commenting**: Authenticated users can leave comments on blog posts.
 - **Responsive design**: The application is optimized for desktop and mobile devices.
 
+## Screenshots
+![Example Screenshot](public/one.png)
+![Example Screenshot](public/two.png)
+![Example Screenshot](public/three.png)
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
